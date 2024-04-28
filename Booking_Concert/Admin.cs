@@ -11,6 +11,8 @@ using System.Windows.Forms;
 
 namespace Booking_Concert
 {
+    //try
+    //try
     public partial class Admin : Form
     {
         private const string String = "Server=127.0.0.1;Port=3306;Database=concert;Uid=root;Pwd=trisha;";
